@@ -1,0 +1,6 @@
+lion
+tortoise
+cat
+dog
+parrot
+mouse
